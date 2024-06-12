@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Hoang
 #### I am a usual web developer guy
+![I am a usual web developer guy](https://github.com/jsthoang/jsthoang/blob/main/aaa11e8a-bf25-4483-aa33-7cf7a5acfc29.sized-1000x1000.jpg?raw=true)
+
 I made these projects just for fun while learning new tech. Some of them might help your life easier :D
 
 Skills: PHP/ VUE JS / REACT / JS / HTML / CSS
